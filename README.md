@@ -1,1 +1,1 @@
-#Simple logging wrapper around uper zap logging 
+#Simple logging wrapper around uper zap logging for golang
